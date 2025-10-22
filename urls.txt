@@ -32,3 +32,4 @@ https://cdn.modrinth.com/data/yBW8D80W/versions/b1OtBmOJ/lambdynamiclights-4.8.5
 https://cdn.modrinth.com/data/Vg5TIO6d/versions/LEoHpQEQ/create_connected-1.1.6-mc1.21.1.jar
 https://cdn.modrinth.com/data/UT2M39wf/versions/wj2p9GZw/copycats-3.0.2%2Bmc.1.21.1-neoforge.jar
 https://cdn.modrinth.com/data/x3HZvrj6/versions/Adq170b8/immersive_aircraft-1.4.1%2B1.21.1-neoforge.jar
+https://cdn.modrinth.com/data/wPQ6GgFE/versions/ydVSjzJR/create_power_loader-2.0.3-mc1.21.1.jar
